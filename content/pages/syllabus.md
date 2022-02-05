@@ -19,17 +19,121 @@ This IAP course is open to all graduate students and researchers for registratio
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Take-home Exam | 60% |
-| Project | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Take-home Exam
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Calendar
 ---------------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Course Introduction, Definitions, Multiple Attribute Decision Making (MADM) vs. Multiple Objective Decision Making/Optimization, Different Mathematical and Hierarchical Classification of MADM and MODM Models, Beam Multiobjective Optimization Examples (Pareto frontier) {{< br >}}{{< br >}} Examples of Weighting Techniques: Direct Assignment/Weighting from Ranks, Entropy, Eigenvector/Ratio Weighting {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Examples of Compensatory MADM Models: Weighted Sum Model, Weighted Product Model, Additive Utility Theory, TOPSIS {{< br >}}{{< br >}} Examples of Methods for Qualitative Data: Median Ranking Method, Analytical Hierarchy Process (AHP), Revised AHP, Analytical Network Processes (ANP) {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Examples of Non-Compensatory MADM Models: Dominance, Satisfying Methods (Subjunctive and Disjunctive), Lexicographic, Elimination by Aspects, Modified Maximin-Maximax {{< br >}}{{< br >}} Outranking Approach (ELECTRE I), ELECTRE III (Pseudo-Fuzzy), PROMETHEE I & II {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Multiple Criteria Material Selection Procedure for Multi-Materials (e.g., Composites) {{< br >}}{{< br >}} Recent Compensatory Approaches in Material Selection: A Novel Non-Linear Normalization and a Modified Digital Logic Method; Using Graph Theory and Matrix Approach {{< br >}}{{< br >}} A Revised Simos Procedure as Weighting Tool for Designers: Group Decision Making {{< br >}}{{< br >}} A Nonaggregative MADM Approach in Material Selection (for Ranking and Classification); Different Forms of Uncertainties; Performance Index Derivation; Rank Stability Analysis {{< br >}}{{< br >}} An Application in Taguchi Design of Experiments Method: Case Study in an FEM-Based Multi-Criteria Design Optimization of a Forming Process {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course Introduction, Definitions, Multiple Attribute Decision Making (MADM) vs. Multiple Objective Decision Making/Optimization, Different Mathematical and Hierarchical Classification of MADM and MODM Models, Beam Multiobjective Optimization Examples (Pareto frontier)
+
+Examples of Weighting Techniques: Direct Assignment/Weighting from Ranks, Entropy, Eigenvector/Ratio Weighting
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Examples of Compensatory MADM Models: Weighted Sum Model, Weighted Product Model, Additive Utility Theory, TOPSIS
+
+Examples of Methods for Qualitative Data: Median Ranking Method, Analytical Hierarchy Process (AHP), Revised AHP, Analytical Network Processes (ANP)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Examples of Non-Compensatory MADM Models: Dominance, Satisfying Methods (Subjunctive and Disjunctive), Lexicographic, Elimination by Aspects, Modified Maximin-Maximax
+
+Outranking Approach (ELECTRE I), ELECTRE III (Pseudo-Fuzzy), PROMETHEE I & II
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Multiple Criteria Material Selection Procedure for Multi-Materials (e.g., Composites)
+
+Recent Compensatory Approaches in Material Selection: A Novel Non-Linear Normalization and a Modified Digital Logic Method; Using Graph Theory and Matrix Approach
+
+A Revised Simos Procedure as Weighting Tool for Designers: Group Decision Making
+
+A Nonaggregative MADM Approach in Material Selection (for Ranking and Classification); Different Forms of Uncertainties; Performance Index Derivation; Rank Stability Analysis
+
+An Application in Taguchi Design of Experiments Method: Case Study in an FEM-Based Multi-Criteria Design Optimization of a Forming Process
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
